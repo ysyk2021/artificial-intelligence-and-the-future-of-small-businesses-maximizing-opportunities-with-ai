@@ -1,5 +1,4 @@
-Chapter 9: AI Ethics and Governance for Small Business
-======================================================
+
 
 As small businesses increasingly adopt AI technologies, it is important to consider the ethical and governance implications of these implementations. In this chapter, we will explore key considerations and best practices for small businesses to ensure responsible and ethical use of AI.
 

@@ -1,5 +1,4 @@
-Chapter 3: Choosing the Right AI Tools and Technologies for Small Business
-==========================================================================
+
 
 Overview of AI Tools and Technologies for Small Business
 --------------------------------------------------------

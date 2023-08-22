@@ -1,5 +1,4 @@
-Overview of AI Applications for Financial Management in Small Business
-==================================================================================================================================
+
 
 Overview of AI Applications in Financial Management for Small Businesses
 ------------------------------------------------------------------------

@@ -1,5 +1,4 @@
-Chapter 4: Collecting and Analyzing Data with AI in Small Business
-==================================================================
+
 
 Importance of Data Collection and Analysis in Small Business
 ------------------------------------------------------------
