@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the importance of measuring the impact of AI on small businesses. We will discuss how to continuously adapt and improve your AI approach in order to maximize its impact on small business operations.
 
 Importance of Measuring AI Impact on Small Business

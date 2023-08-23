@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) has the potential to transform small businesses, but it also raises ethical concerns. The use of AI must be governed to ensure that it aligns with ethical principles, regulations, and human rights. Small businesses must develop governance frameworks to promote responsible AI use.
 
 The Importance of AI Ethics and Governance

@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) technologies offer significant opportunities for small businesses to streamline operations, enhance customer experience, and drive growth and success. In this book, we have explored the definition of AI in small business, the types of AI used in small business, and the benefits of AI for small business growth and success.
 
 Recap of Key Takeaways from the Book

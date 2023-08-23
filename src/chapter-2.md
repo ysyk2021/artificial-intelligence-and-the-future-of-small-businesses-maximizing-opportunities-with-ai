@@ -1,5 +1,4 @@
 
-
 Small businesses are increasingly turning to Artificial Intelligence (AI) to automate routine tasks, enhance decision-making processes, and improve customer experience. In this chapter, we will provide an overview of AI in small business, including its definition, types, and benefits.
 
 Definition of AI in Small Business

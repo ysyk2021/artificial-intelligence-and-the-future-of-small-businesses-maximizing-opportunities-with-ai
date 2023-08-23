@@ -1,5 +1,4 @@
 
-
 As small businesses increasingly adopt AI technologies, it is important to consider the ethical implications of these implementations. In this chapter, we will explore key ethical considerations and best practices for small businesses to ensure responsible and ethical use of AI.
 
 Fairness and Bias

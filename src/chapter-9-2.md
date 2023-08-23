@@ -1,5 +1,4 @@
 
-
 After implementing AI technologies in small businesses, it is important to measure the impact of these technologies on the business. Measuring AI impact can highlight areas of success and identify areas in need of improvement or refinement.
 
 Establishing Key Performance Indicators (KPIs)

@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) technologies are increasingly being adopted by small businesses to automate routine tasks, analyze data, and provide insights for better decision-making. In this chapter, we will explore the two main types of AI used in small business: narrow or weak AI and general or strong AI.
 
 Narrow or Weak AI

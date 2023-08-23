@@ -1,5 +1,4 @@
 
-
 Small businesses can benefit significantly from implementing AI technologies, but it is crucial to measure the impact of AI to ensure its effectiveness and identify areas for improvement. In this chapter, we will explore best practices for small businesses to measure their AI impact.
 
 Assessing the Effectiveness of AI for Small Business

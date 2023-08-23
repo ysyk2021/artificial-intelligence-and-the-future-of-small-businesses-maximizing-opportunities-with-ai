@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) refers to the use of machines and algorithms to perform tasks that typically require human intelligence, such as learning, reasoning, and problem-solving. In the context of small business, AI technologies can empower businesses to automate routine tasks, enhance decision-making processes, and improve customer experience.
 
 Types of AI for Small Business
