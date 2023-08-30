@@ -10,3 +10,7 @@ Throughout the book, we will also provide case studies of successful AI implemen
 We believe that AI has the potential to level the playing field for small businesses, allowing them to compete with larger enterprises and achieve greater success. However, the key to unlocking this potential is effective implementation and management of AI solutions. This book aims to provide small businesses with the knowledge and tools necessary to do just that.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
